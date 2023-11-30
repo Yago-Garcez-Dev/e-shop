@@ -12,7 +12,7 @@ export const products = [
                 color: "White",
                 colorCode: "#FFFFFF",
                 image:
-                    "https://m-cdn.phonearena.com/images/review/5519-wide-two_1200/Apple-iPhone-14-review.jpg",
+                    "https://www.fastshop.com.br//wcsstore/FastShopCAS/images/catalog/AEMPUF3BRAPTO_PRD/AEMPUF3BRAPTO_PRD_447_1.jpeg",
             },
             {
                 color: "Gray",
@@ -37,7 +37,7 @@ export const products = [
                 color: "Black",
                 colorCode: "#000000",
                 image:
-                    "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688529886610-black-logitech-keyboard.jpg?alt=media&token=353aa276-1316-4e50-bc26-8e3828fe6cdd",
+                    "https://i.ebayimg.com/images/g/lqUAAOSw5Bdk55x8/s-l1600.jpg",
             },
         ],
         reviews: [
@@ -77,7 +77,7 @@ export const products = [
                 color: "Black",
                 colorCode: "#000000",
                 image:
-                    "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1686386605041-iphone12-black.jpg?alt=media&token=32abf316-ddf6-4870-9e1e-a7c884b750d6",
+                    "https://trocafone.vtexassets.com/arquivos/ids/264775-1200-auto?v=638236572980570000&width=1200&height=auto&aspect=true",
             },
             {
                 color: "Blue",
@@ -150,7 +150,7 @@ export const products = [
                 color: "Graphite",
                 colorCode: " #383838",
                 image:
-                    "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688529379028-logitech-graphite-mouse.jpg?alt=media&token=f9dfba29-832f-4c58-88c6-a7a0ae6b22bf",
+                    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvhEgJDNayghSnX3qIIV20pRAkumw7Ih4FlgjZ7R1-yyKJsn7aKaXh4LmbWVoXpo2MZCdOP73eE4bnM14eGtfb5vNHAHCwEevC2LBSscuXufXnQfRWEomLbg",
             },
         ],
         reviews: [],
@@ -169,7 +169,7 @@ export const products = [
                 color: "Black",
                 colorCode: "#000000",
                 image:
-                    "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688041293609-watch-black.jpg?alt=media&token=270f918c-d9f5-41a2-ad32-45d5f3c66bf0",
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4wA2i930kCCB6VQF0sW0kO0DtZeAHGsnGgxjYAA1nj5uaI5ngUhMop9mcC6NaiQeghei9Ar1n1h7XAUYy8Wp_vd4-VHEAijDKoFUdSu4iSnLI-VmIDq0LqA",
             },
             {
                 color: "Silver",
